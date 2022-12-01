@@ -1,2 +1,2 @@
-0x00. Python - Hello, World
+Now On to Higher Level Programming :)
 
